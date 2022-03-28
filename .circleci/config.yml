@@ -124,6 +124,9 @@ jobs:
     docs:
       docker:
         - image: kubos/kubos-dev:latest
+      environmnent:
+        GH_NAME: CircleCI
+        GH_EMAIL: circleci@placeholder.example.com
       steps:
         - checkout
         - run: cd apis/app-api/python && pip3 install .
