@@ -18,7 +18,7 @@ of independent, yet interoperating components.
 - Services expose hardware and system functionality with a controlled and uniform interface
 - Kubos Linux provides the base operating system and the drivers needed to communicate with connected hardware devices
 
-[Company website](https://kubos-preservation-group.github.io/)
+[Community website](https://kubos-preservation-group.github.io/)
 
 [Main Documentation Page](https://kubos-preservation-group.github.io/kubos/)
 
@@ -63,9 +63,9 @@ These are the important folders in this repo:
 
 # Related Repos
 
-- [kubos-linux-build](https://github.com/kubos/kubos-linux-build) - Repo used for
+- [Kubos-Linux-Build](https://github.com/kubos/kubos-linux-build) - Repo used for
   configuring and building KubOS images
-- [cargo-kubos](https://github.com/kubos/cargo-kubos) - Repo for a Cargo subcommand
+- [Cargo-Kubos](https://github.com/kubos/cargo-kubos) - Repo for a Cargo subcommand
   which will assist with cross-compiling Rust projects for KubOS
-- [kubos-vagrant](https://github.com/kubos/kubos-vagrant) - Repo used to build the
+- [Kubos-Vagrant](https://github.com/kubos/kubos-vagrant) - Repo used to build the
   Kubos SDK
