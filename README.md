@@ -51,15 +51,15 @@ submit an [issue](https://github.com/kubos/kubos/issues) with your feature reque
 These are the important folders in this repo:
 
 - APIs - Contains all of our [hardware APIs](https://docs.kubos.com/latest/deep-dive/apis/device-api/index.html)
-  as well as our [application APIs](https://docs.kubos.com/1.21.0/ecosystem/apps/app-guide.html#apis)
+  as well as our [application APIs](https://docs.kubos.com/latest/ecosystem/apps/app-guide.html#apis)
 - Clients - Contains client programs which can be used locally to communicate with the
   corresponding service on a remote target
 - Docs - Contains all of the raw doc files used to generate our [documentation](https://kubos-preservation-group.github.io/kubos/)
 - Examples - Various example KubOS projects
-- Hal - A collection of [hardware interface abstractions](https://docs.kubos.com/1.21.0/deep-dive/apis/kubos-hal/index.html)
-- Libs - Helper libraries used when building [Kubos services](https://docs.kubos.com/1.21.0/deep-dive/apis/kubos-libs.html)
-- Services - Contains all of the Kubos [core services](https://docs.kubos.com/1.21.0/ecosystem/services/core-services.html)
-  and [hardware services](https://docs.kubos.com/1.21.0/ecosystem/services/hardware-services.html)
+- Hal - A collection of [hardware interface abstractions](https://docs.kubos.com/latest/deep-dive/apis/kubos-hal/index.html)
+- Libs - Helper libraries used when building [Kubos services](https://docs.kubos.com/latest/deep-dive/apis/kubos-libs.html)
+- Services - Contains all of the Kubos [core services](https://docs.kubos.com/latest/ecosystem/services/core-services.html)
+  and [hardware services](https://docs.kubos.com/latest/ecosystem/services/hardware-services.html)
 
 # Related Repos
 
